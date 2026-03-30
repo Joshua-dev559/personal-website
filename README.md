@@ -1,4 +1,4 @@
-# Personal Website
+# PERSONAL WEBSITE
 
 This is a personal website built to showcase my skills and projects as a web developer. The website includes three pages:
 
