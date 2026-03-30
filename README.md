@@ -27,3 +27,6 @@ This is a personal website built to showcase my skills and projects as a web dev
 
 ## License
 This project is open-source and free to use.
+
+## Author
+Joshua Mbilli
